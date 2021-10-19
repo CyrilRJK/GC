@@ -4,3 +4,4 @@ skimage
 numpy
 Pillow
 matplotlib
+evalutils
