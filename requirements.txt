@@ -1,0 +1,6 @@
+hooknet
+SimpleITK
+skimage
+numpy
+Pillow
+matplotlib
