@@ -1,0 +1,7 @@
+hooknet
+SimpleITK
+scikit-image
+numpy
+Pillow
+matplotlib
+evalutils
