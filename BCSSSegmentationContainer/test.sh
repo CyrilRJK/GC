@@ -34,7 +34,7 @@ docker run --rm \
         dice_score = label_filter.GetDiceCoefficient()
 
         if dice_score == 1.0:
-            print('woopwoop')
+            print('test worked')
         else:
             print('test failed')
         """
